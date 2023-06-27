@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# C code 
+*.c
+
+# Mac Specific
+.DS_Store
+
+# Max
+*.mxo
+*.mxe64
+
+*.aif
+*.aiff
+*.rev
+*.sh
+venv/
+__pycache__/
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+tmp/
+pysndlib/__pycache__/
+examples/
+src/pysndlib.egg-info/
